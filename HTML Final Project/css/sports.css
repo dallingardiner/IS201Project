@@ -1,0 +1,106 @@
+.header{
+    background-color:#0062BB;
+    color:whitesmoke;
+    height: 100px;
+    line-height: 100px;
+    font-size: 20px;
+}
+
+.mainbody{
+    background-color: whitesmoke;
+}
+
+.footer{
+    position: fixed;
+    background-color:#0062BB;
+    color: whitesmoke;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    height: 25px;
+    font-size: 10px;
+    line-height: 25px;
+}
+
+img{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    justify-content: center;
+}
+
+.common{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+nav{
+    background-color:lightgray;
+    padding: 10px;
+    overflow: hidden;
+    justify-content: center;
+}
+
+nav a{
+    padding: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #333;
+    float: left;
+    font-size: 18px;
+}
+
+nav a:hover{
+    background-color:rgb(167, 167, 167);
+}
+
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration: underline;
+    background-color: #0062BB;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+    text-align: left;
+    display: inline-block;
+}
+
+.container{
+    width: 400px;
+    height: 225px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ol li{
+    font-weight: bold;
+    color:#0062BB
+}
+
+ul li{
+    font-weight: normal;
+    color: black;
+}
+
+.sports{
+    background-color:#0062BB;
+    color:whitesmoke;
+    height: 70px;
+    line-height: 70px;
+    font-size: 40px; 
+}
+
+p{
+    font-style:italic;
+}
